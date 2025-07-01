@@ -36,7 +36,7 @@ const Sidebar = () => {
       {/* Compact Sidebar */}
       <div
         className="vh-100 bg-white shadow d-flex flex-column align-items-center py-4"
-        style={{ width: "80px" }}
+        style={{ width: "50px" }}
       >
         <div className="fw-bold fs-4 text-primary">:d</div>
         <div className="mt-4 d-flex flex-column gap-3">
@@ -50,7 +50,7 @@ const Sidebar = () => {
       {isHovered && (
         <div
           className="position-fixed top-0 start-0 vh-100 bg-white shadow px-3 py-4"
-          style={{ width: "260px" }}
+          style={{ width: "240px" }}
         >
           <div className="fw-bold fs-4 text-primary">:dashboard</div>
           <div className="mt-4 d-flex flex-column gap-2">

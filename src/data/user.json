@@ -1,0 +1,9 @@
+{
+  "email": "john.doe@example.com",
+  "phone": "+1-555-123-4567",
+  "number": "123",
+  "hotelId": "H1001",
+  "firstName": "John",
+  "lastName": "Doe",
+  "password": "P@ssw0rd123"
+}
